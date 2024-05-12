@@ -1,0 +1,6 @@
+{
+    "general": ["capital", "name", "continents", "currencies", "languages"],
+    "name_selects": ["common", "official"]
+    
+    
+}
